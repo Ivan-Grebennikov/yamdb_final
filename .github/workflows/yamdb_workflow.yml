@@ -52,7 +52,7 @@ jobs:
           tags: ${{ secrets.DOCKER_USERNAME }}/api_yamdb:latest
       
   deploy:
-    name: Deploy in production server
+    name: Deploy to production server
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
 
