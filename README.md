@@ -1,6 +1,10 @@
-[![YaMDb workflow](https://github.com/Ivan-Grebennikov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/yandex-praktikum/yamdb_final/actions)
+<div align="right">
 
-[![Deployed service link](https://img.shields.io/badge/service-deployed-green.svg)](http://greivan-yamdb.ddns.net/redoc)
+[![YaMDb workflow](https://github.com/Ivan-Grebennikov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/Ivan-Grebennikov/yamdb_final/actions)
+
+[![Deployed service link](https://img.shields.io/badge/Service-deployed-green.svg)](http://greivan-yamdb.ddns.net/redoc)
+
+</div>
 
 ## Сервис YaMDb
 
