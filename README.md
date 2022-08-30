@@ -1,7 +1,6 @@
 <div align="right">
 
 [![YaMDb workflow](https://github.com/Ivan-Grebennikov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/Ivan-Grebennikov/yamdb_final/actions)
-
 [![Deployed service link](https://img.shields.io/badge/Service-deployed-green.svg)](http://greivan-yamdb.ddns.net/redoc)
 
 </div>
