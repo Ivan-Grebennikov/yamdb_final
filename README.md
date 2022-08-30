@@ -1,4 +1,6 @@
-![YaMDb workflow](https://github.com/Ivan-Grebennikov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+[![YaMDb workflow](https://github.com/Ivan-Grebennikov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/yandex-praktikum/yamdb_final/actions)
+
+[![Deployed service link](https://img.shields.io/badge/service-deployed-green.svg)](http://greivan-yamdb.ddns.net/redoc)
 
 ## Сервис YaMDb
 
